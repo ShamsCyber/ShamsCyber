@@ -1,4 +1,4 @@
-# 👨‍💻 Mohammad Shams | GTAexcess
+# 👨‍💻 Mohammad Shams | ShamsCyber
 
 🔐 **Cybersecurity Enthusiast | Blue Team Explorer | CEH Track**  
 📍 _Remote / Open to Relocation_  
