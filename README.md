@@ -31,8 +31,9 @@ Here are some of my open-source tools focused on practical cybersecurity operati
 
 ## 📌 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GTAexcess&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GTAexcess&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShamsCyber&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShamsCyber&show_icons=true&theme=dark&hide_border=true)
+
 
 ---
 
