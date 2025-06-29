@@ -1,6 +1,6 @@
 # 👨‍💻 Mohammad Shams | ShamsCyber
 
-🔐 **Cybersecurity Enthusiast | Blue Team Explorer | CEH Track**  
+🔐 **Cybersecurity Enthusiast | Blue Team Explorer | Android Developer**  
 📍 _Remote / Open to Relocation_  
 🧰 Specializing in **SOC-level tools, log analysis, process monitoring, and red/blue team simulation utilities**  
 
